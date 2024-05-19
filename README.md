@@ -26,7 +26,7 @@ This repository contains a template-based dynamic array implementation in C++. T
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/yourusername/dynamic-array.git
+    git clone https://github.com/JorHaroyan/Dynamic-Array-Implementation.git
     cd dynamic-array
     ```
 
